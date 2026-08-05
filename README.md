@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Abdelrahman Fathy 👋
 
-<!--
-**Obaida21A/Obaida21A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 AI & Machine Learning Student | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence student at the Faculty of Computers and Information. I'm passionate about exploring data, building intelligent systems, and developing machine learning models to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+- *Languages:* Python, C++, SQL
+- *AI / Data Science:* Machine Learning, Data Analysis, Algorithms, Computer Vision
+- *Developer Tools:* Git, GitHub, VS Code
+
+---
+
+### 🌐 Connect with Me
+- *LinkedIn:* [Abdelrahman Fathy](https://www.linkedin.com/in/abdelrahman-fathy-15588738b)
+- *Email:* abdelrahmanfathy028@gmail.com
+-
